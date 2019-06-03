@@ -1,4 +1,4 @@
-Dear Hiring Manager!
+Dear Hiring Recruiter!
 
 I am here by applying for the position of Junior Web Developer.
 
