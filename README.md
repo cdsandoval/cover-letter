@@ -1,8 +1,8 @@
 Dear Stela!
 
-I am here by applying for the position of Ruby on Rails Developer position.
+I am here by applying for the position of Ruby on Rails Developer.
 
-As a recent graduate of a coding bootcamp, this will be my first step towards a professional career as a software developer. Although not having worked in development outside the bootcamp. I did however, before the bootcamp started, get involved in FreeLance Project, where I participated on a project builded with React and Firebase. It was a dashboard application to follow each process of a textile manufacturing.
+As a recent graduate of a coding bootcamp, this will be my first step towards a professional career as a software developer. Although not having worked in development outside the bootcamp. I did however, before the bootcamp started, get involved in FreeLance Project, where I participated on a project builded with React & redux and Firebase. It was a dashboard application to follow each process of a textile manufacturing.
 
 Technically I am a Ruby on Rails developer with secondary skills in JavaScript, but I consider my self a programmer/developer first and the languages I use merely as tools of the trade. That being said I really like Ruby, and the beauty of simplicity. Simplicity is what I strive for in all aspects of my life, both professionally as well as personally. A big and/or complex issue has just not been broken down into small enough pieces yet. This does however not mean that I shy away from "tough" or "hard" issues, I am a problem solver at heart, which probably is the reason why I love software development. I also love challenges, which is why I felt right at home in the bootcamp, 6 months of non­stop challenges building Ruby on Rails Proyects.
 
