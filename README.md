@@ -1,13 +1,13 @@
-Dear Stela!
+I started my coding journey 10 years ago, when I enrolled in a Peruvian university. Unfortunately, my family’s circumstances required me to start working at a local warehouse to make ends meet. Yet I was always convinced that I would make it back to the technology sector.
 
-I am here by applying for the position of Ruby on Rails Developer.
+When Codeable, a full time web development bootcamp, announced they were seeking applicants for their first cohort, I knew the time to pursue my passion had come. I was selected among the first 19 students out of more than 300 that applied. Although I had already started my learning path independently and had participated in freelance projects, Codeable extended my depth of knowledge, allowing me to be work-ready.
 
-As a recent graduate of a coding bootcamp, this will be my first step towards a professional career as a software developer. Although not having worked in development outside the bootcamp. I did however, before the bootcamp started, get involved in FreeLance Project, where I participated on a project builded with React & redux and Firebase. It was a dashboard application to follow each process of a textile manufacturing.
-
-Technically I am a Ruby on Rails developer with secondary skills in JavaScript, but I consider my self a programmer/developer first and the languages I use merely as tools of the trade. That being said I really like Ruby, and the beauty of simplicity. Simplicity is what I strive for in all aspects of my life, both professionally as well as personally. A big and/or complex issue has just not been broken down into small enough pieces yet. This does however not mean that I shy away from "tough" or "hard" issues, I am a problem solver at heart, which probably is the reason why I love software development. I also love challenges, which is why I felt right at home in the bootcamp, 6 months of non­stop challenges building Ruby on Rails Proyects.
-
+Although I can be considered a Ruby on Rails developer with secondary skills in JavaScript, I can learn any language as I understand they are the tools of the trade. That being said I really like Ruby, and the beauty of simplicity. Simplicity is what I strive for in all aspects of my life, both professionally as well as personally. A big and/or complex issue simply have not been deconstructed in smaller, more approachable parts.. This does not mean that I shy away from "tough" or "hard" issues, I am a problem solver at heart, which probably is the reason why I love software development. I also love challenges, which is why I felt right at home in the bootcamp, 6 months of non­stop challenges building Ruby on Rails Projects.
+Whether it is at a technology firm or at a warehouse, I will always strive for excellence. Today, I am convinced that I want to make my mark in this world by helping create products that solve real world needs. I am aware that careers in technology are confronted with diverse challenges, yet I am convinced that my life has uniquely positioned me to confront such a career. 
+ 
+ 
 **So what did I learn in the bootcamp, apart from the obvious coding skills?**
 
 I learned how to acquire knowledge and skills fast. I discovered that I am passionate about coding, passionate about learning more and getting better. My goal for the bootcamp was to be the best developer I can be, simply to be better today then I was yesterday and better tomorrow than I am today.
-
 Well, I have tried several different fields before I got bit by the coding bug; I have worked in warehouses, call centers and as production operator. It took me this long and that many tries to find my calling in life, I love coding. If my way into the industry is indicative in any way, then it is that I can handle challenges, that I am passionate about coding, that I am a fast learner, that I can acquire knowledge needed to get the job done. I strive to get the job done: "I strive to write well-crafted code, but most important is working maintainable software that meet's the clients need"
+
